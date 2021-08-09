@@ -1,0 +1,4 @@
+Open Weather API
+
+key
+9b0e8263658b645adbd0d354635d1a65
